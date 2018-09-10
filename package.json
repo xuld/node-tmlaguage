@@ -1,0 +1,23 @@
+{
+  "name": "node-tmlaguage",
+  "version": "7.1.1",
+  "description": "TextMate helpers",
+  "main": "./lib/first-mate.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xuld/node-tmlaguage"
+  },
+  "author": "xuld <xuld@vip.qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "emissary": "^1",
+    "event-kit": "^2.2.0",
+    "fs-plus": "^3.0.0",
+    "grim": "^2.0.1",
+    "season": "^6.0.2",
+    "underscore-plus": "^1"
+  },
+  "optionalDependencies": {
+    "oniguruma": "6.2.1"
+  }
+}
